@@ -1,7 +1,8 @@
 Lombok Hello World
 -------------
 
-This repo contains an overview of [Lombok](http://projectlombok.org/) features, comparing two POJOs, one of them powered by Lombok.   
+This repo contains an overview of [Lombok](http://projectlombok.org/) features, comparing two POJOs, one of them powered by Lombok.
+Below a quick guide of the annotations used in the code.
 
 @AllArgsConstructor
 --------------------------
