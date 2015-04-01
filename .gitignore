@@ -1,0 +1,29 @@
+blockstores/*
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.gradle/
+build/
+target/
+mods/
+.idea/libraries
+*.DS_Store
+
+*.class
+
+*_blockstore
+
+# Package Files
+# *.jar
+*.war
+*.ear
+
+# IDEA
+*.iml
+.idea/
+.DS_Store
+local.*
