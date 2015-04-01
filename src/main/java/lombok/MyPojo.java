@@ -1,4 +1,4 @@
-package test;
+package lombok;
 
 /**
  * A plain old java object, with getters and setters and custom constructor.

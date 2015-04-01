@@ -1,8 +1,5 @@
-package test;
+package lombok;
 
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import lombok.ToString;
 import lombok.experimental.Accessors;
 
 @Data

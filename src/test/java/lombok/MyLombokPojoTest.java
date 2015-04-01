@@ -1,4 +1,4 @@
-package test;
+package lombok;
 
 import static org.junit.Assert.assertEquals;
 

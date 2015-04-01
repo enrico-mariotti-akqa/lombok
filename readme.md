@@ -1,8 +1,7 @@
 Lombok Hello World
 -------------
 
-Quick example of [Lombok](http://projectlombok.org/) features:
-  
+This repo contains an overview of [Lombok](http://projectlombok.org/) features, comparing two POJOs, one of them powered by Lombok.   
 
 @AllArgsConstructor
 --------------------------
